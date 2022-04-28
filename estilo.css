@@ -1,0 +1,236 @@
+
+
+.perfil{
+	height: 100%;
+	width: 250px;
+	max-width: 100%;
+	border-radius: 70%;
+}
+
+
+.lista li{
+   display: inline-block;
+   margin: 5px;
+   color: white;
+   border: 1px solid white;
+   padding: 7px;
+   position: relative;
+   right: 45px;
+
+
+}
+
+
+
+.corPrimaria{
+	
+}
+
+
+
+p{
+	font-family: lato,'Heveltica Neue', Heveltica, Arial.sans-serif;
+	color: card-text !important;
+}
+
+.icones{
+	padding-left: 5px;
+}
+
+.titulosBrancos{
+	text-decoration: underline;
+	text-decoration-position: below ;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: white;
+}
+
+.footer{
+	marging: 0px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.contatos{
+	width: 100%;
+	height: 500px;
+}
+.contatos h3{
+	margin: 100px;
+}
+
+.jumbotron{
+	background: linear-gradient(to right, 
+        #883DF2,
+         #D762D9, 
+         #282140);
+    background-size: 400% 400%;
+    animation: animate-background 10s infinite ease-in-out;
+    width: 100%;
+    
+}
+
+.backgroudcolor{
+	background: linear-gradient(to right, 
+        #883DF2,
+         #D762D9, 
+         #282140);
+    background-size: 400% 400%;
+    animation: animate-background 10s infinite ease-in-out;
+    width: 100%;;
+}
+
+
+
+.jumbotron-heading{
+	color: white !important;
+	
+	
+}
+
+
+.btn{
+	color: white;
+	background-color: #282140;
+}
+
+.btn1{
+	background-color: #282140;
+	
+}
+
+.cornome{
+	color: white !important;
+}
+
+.border{
+	border: 2px solid #9C99F2 ;
+}
+
+.btn:hover{
+	background-color: white;
+}
+
+.card-body{
+	background: linear-gradient(to right, 
+        #883DF2,
+         #D762D9, 
+         #282140);
+    background-size: 400% 400%;
+    animation: animate-background 10s infinite ease-in-out;
+    width: 100%;
+	color: black;
+	
+	margin: 0px;
+
+
+}
+.card-text{
+	color: white !important ;
+}
+
+.corWhite{
+
+	color: white !important;
+}
+
+.btn-group{
+	border: 1px solid white;
+}
+
+.btn-outline-secondary{
+	background-color: #282140 !important;
+	color: white !important;
+}
+
+a img:hover{
+	width: 400px;
+	height: 400px;
+}
+
+
+
+@keyframes animate-background {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+body{
+      background: linear-gradient(to right, 
+        #883DF2,
+         #D762D9, 
+         #282140);
+    background-size: 400% 400%;
+    animation: animate-background 10s infinite ease-in-out;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.album{
+	  background: linear-gradient(to right, 
+        #883DF2,
+         #D762D9, 
+         #282140);
+    
+    animation: animate-background 10s infinite ease-in-out;
+    width: 100%;
+    height: 100vh;
+
+} 
+
+.linkzap{
+	background-color: #22C38E;
+	width: 100px;
+	height: 50px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+
+.text-center{
+	margin: 40px;
+	
+
+}
+.contato1{
+	color: #282140!important;
+	font-size: 30px;
+	
+	border-radius: 25px;
+	padding: 10px;
+	border: 2px solid #282140;
+	
+}
+.contato2{
+	color: #282140!important;
+	font-size: 30px;
+	
+	border-radius: 25px;
+	padding: 10px;
+	border: 2px solid #282140;
+	margin-left: 45px;
+	
+}
+
+
+
+
+
+.titulo{
+	position: relative;
+	right: 60px;
+}
+
+.textoPosition{
+	position: relative;
+	right: 50px;
+
+}
